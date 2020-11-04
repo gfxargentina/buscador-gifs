@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Buscador de gifts con la api de giphy.com, practica hecha con react hooks para el curso de Fernando Herrera-React de 0 a experto
 
 ## Available Scripts
 
