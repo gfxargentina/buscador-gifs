@@ -1,0 +1,8 @@
+//para agregar el autocompletado de testing jest
+{
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
